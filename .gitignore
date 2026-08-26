@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+# El progreso se guarda fuera del repositorio.
+progreso/
+mundo/
+
+# Material exclusivo del docente.
+HISTORIA.md
+GUIA_DOCENTE.md
+tests/
